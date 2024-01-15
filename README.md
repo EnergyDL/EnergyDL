@@ -13,8 +13,6 @@ HI THERE!
 <hr>
 
 ```
-Hi Thanks For Reading This
--------------------------
 💻 Self-Taught Developer.
 🏴 Europe.
 📝 Software Analyst.
