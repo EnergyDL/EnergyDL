@@ -13,7 +13,7 @@
 💻 Self-Taught Developer.
 🏴 Europe.
 📝 Software Analyst.
-🌟 Main languages: C++, C#, HTML
+🌟 Main languages: C++, C#, HTML, Python
 ```
 
 <hr>
