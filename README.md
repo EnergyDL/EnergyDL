@@ -16,7 +16,6 @@ Welcome To My Profile <3
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Private+Cheat+/+Spoofer+/+Source Code&center=true&width=380&height=45"></a>
 </p>
-<hr>
 
 ```
 Hi Thanks For Reading This
@@ -26,4 +25,3 @@ Hi Thanks For Reading This
 📝 Software Analyst.
 🌟 Main languages: C++, C#, HTML
 ```
-<hr>
