@@ -14,6 +14,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Developer+of+cheats+and+Spoofers;Web+Developer;Loves+C··;Likes+Phonk;Learning%20python&center=true&width=380&height=45"></a>
 </p>
 
+<hr>
 ```
 Hi Thanks For Reading This
 -------------------------
@@ -22,3 +23,4 @@ Hi Thanks For Reading This
 📝 Software Analyst.
 🌟 Main languages: C++, C#, HTML
 ```
+<hr>
