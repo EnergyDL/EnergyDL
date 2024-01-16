@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Analyst;Learner&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Source-Code+Seeker&center=true&width=380&height=45"></a>
 </p>
 <p align="center">
     <a href="https://discord.com/users/743366901144748053">
@@ -10,9 +10,7 @@
 <hr>
 
 ```
-💻 Self-Taught Developer.
-🏴 Europe.
-📝 Software Analyst.
+📝 Source-Code Seeker.
 🌟 Main languages: C++, C#, HTML, Python
 ```
 
