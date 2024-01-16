@@ -10,7 +10,7 @@
 <hr>
 
 ```
-📝 Source-Code Seeker.
+📝 I love Source Code.
 🌟 Main languages: C++, C#, HTML, Python
 ```
 
